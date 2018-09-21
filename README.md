@@ -27,11 +27,15 @@ The files for this product and their introduction are as follows:
 
 ## Support
 Freenove provides free and quick technical support, including but not limited to:
-    * Quality problems of products
-    * Problems in using products
-    * Questions for learning and technology
-    * Opinions and suggestions
-    * Ideas and thoughts
+    - Quality problems of products
+
+    - Problems in using products
+
+    - Questions for learning and technology
+
+    - Opinions and suggestions
+
+    - Ideas and thoughts
 
 Please send email to:
     `support@freenove.com`
@@ -44,12 +48,17 @@ Freenove brand and Freenove logo are copyright of Freenove Creative Technology C
 
 ## About
 Freenove is an open-source electronics platform. Freenove is committed to helping customer quickly realize the creative idea and product prototypes, making it easy to get started for enthusiasts of programing and electronics and launching innovative open source products. Our services include:
-    * Electronic components and modules
-    * Learning kits for Arduino
-    * Learning kits for Raspberry Pi
-    * Learning kits for Technology
-    * Robot kits
-    * Auxiliary tools for creations
+    - Electronic components and modules
+
+    - Learning kits for Arduino
+
+    - Learning kits for Raspberry Pi
+
+    - Learning kits for Technology
+
+    - Robot kits
+
+    - Auxiliary tools for creations
 
 Our code and circuit are open source. You can obtain the details and the latest information through visiting the following web sites:
     [Freenove](http://www.freenove.com)
